@@ -1,0 +1,20 @@
+.Signup{
+	width: 30rem;
+	height: auto;
+}
+
+.card {
+        margin: 0 auto;
+        float: none; 
+        
+}
+
+h4{
+	margin-bottom: 20px;
+}
+
+
+input{
+	margin-bottom: 20px;
+	width: 50%;
+}

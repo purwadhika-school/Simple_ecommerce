@@ -1,0 +1,10 @@
+.productpayment{
+	width: 20rem;
+	height: 25rem;
+	margin-left: 50px;
+}
+
+.productpayment img{
+	max-height: 15rem;
+	margin-top: 20px;
+}
